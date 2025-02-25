@@ -5,6 +5,7 @@
 [![Client Support Level](https://img.shields.io/badge/kubernetes%20client-beta-green.svg?style=flat&colorA=306CE8)](https://bit.ly/kubernetes-client-support-badge)
 [![Maven Central](https://img.shields.io/maven-central/v/io.kubernetes/client-java.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.kubernetes%22%20AND%20a:%22client-java%22)
 ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/io.kubernetes/client-java?label=Maven%20Snapshot&server=https%3A%2F%2Foss.sonatype.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiaoqie20130802%2Fsource-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiaoqie20130802%2Fsource-java?ref=badge_shield)
 
 Java client for the [kubernetes](https://kubernetes.io/) API.
 
@@ -33,3 +34,7 @@ already covered.
 You can also reach out to us via [#kubernetes-client](https://kubernetes.slack.com/messages/kubernetes-clients/) slack 
 channel.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiaoqie20130802%2Fsource-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiaoqie20130802%2Fsource-java?ref=badge_large)
